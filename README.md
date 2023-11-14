@@ -1,5 +1,6 @@
 # Esercizio Pali e dispari
 
-Esercizio Palidroma
+Esercizio Palindroma
 
 Esercizio Pari e Dispari
+
