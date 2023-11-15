@@ -19,18 +19,15 @@ let contrarioArray = parolacontrarioArray.join('');
 //Creo una funzione per il controllo della parola se plaindroma o no.
 
 if (parolaInserita === contrarioArray) {
-    function controlloParola (parolaPal) {
-    console.log("La parola " + parolaInserita + " è palindroma");
-    const parolaPalindroma = console.log("La parola " + parolaInserita + " è palindroma");
-    return parolaPalindroma;
+  function controlloParola(parolaPalindroma) {
+    const parolaPal = console.log("La parola " + parolaInserita + " è palindroma");
+    return parolaPal;
   }
   console.log("La parola " + parolaInserita + " è palindroma");
-  }
-  
-  else {
-    function controlloParola2 (parolanonPal) {  
-    const parolanonPalindroma = console.log("La parola " + parolaInserita + " è palindroma");
-    return parolanonPalindroma;
+} else {
+  function controlloParola2(parolanonPalindroma) {
+    const parolanonPal = console.log("La parola " + parolaInserita + " è palindroma");
+    return parolanonPal;
   }
   console.log("La parola " + parolaInserita + " non è palindroma");
 }
